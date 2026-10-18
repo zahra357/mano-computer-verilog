@@ -1,0 +1,18 @@
+
+# ModelSim generated files
+work/
+transcript
+*.wlf
+
+# Simulation waveform files
+*.vcd
+*.fst
+*.vpd
+
+# Generated logs
+*.log
+*.jou
+
+# Operating system files
+.DS_Store
+Thumbs.db
